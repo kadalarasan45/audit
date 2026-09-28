@@ -1,0 +1,100 @@
+# ============================================================
+#  Audit Office Automation - master configuration
+#  Edit per client. Everything the rules engine uses is here.
+# ============================================================
+
+client:
+  name: "Sample Traders Private Limited"
+  gstin: "33AABCS1429B1Z1"
+  state_code: "33"            # 33 = Tamil Nadu
+  pan: "AABCS1429B"
+  fy: "2025-26"
+  period_from: "2025-04-01"
+  period_to: "2026-03-31"
+
+# Where the raw client files live. Globs are allowed.
+# Any source left blank / missing simply gets skipped by the pipeline.
+sources:
+  bank:        ["data/input/bank/*.csv", "data/input/bank/*.xlsx", "data/input/bank/*.pdf"]
+  purchase:    ["data/input/purchase_register.xlsx"]
+  sales:       ["data/input/sales_register.xlsx"]
+  gstr2b:      ["data/input/gstr2b.xlsx"]
+  gstr1:       ["data/input/gstr1.xlsx"]
+  gstr3b:      ["data/input/gstr3b.xlsx"]
+  receipts:    ["data/input/receipts.xlsx"]
+  payments:    ["data/input/payments.xlsx"]
+  debtors:     ["data/input/debtors_outstanding.xlsx"]
+  creditors:   ["data/input/creditors_outstanding.xlsx"]
+  salary:      ["data/input/salary_register.xlsx"]
+  inventory:   ["data/input/inventory.xlsx"]
+  conversion:  ["data/input/conversion.xlsx"]
+  cashbook:    ["data/input/cash_book.xlsx"]
+  bankbook:    ["data/input/bank_book.xlsx"]     # books side of the BRS (Tally bank ledger)
+
+thresholds:
+  # --- Income-tax cash limits (India) ---
+  cash_payment_limit:        10000    # s.40A(3) - single person, single day
+  cash_payment_limit_goods:  35000    # s.40A(3) proviso - goods carriage
+  cash_receipt_limit:        200000   # s.269ST
+  cash_loan_limit:           20000    # s.269SS / 269T
+
+  # --- matching tolerances ---
+  amount_tolerance:          1.00     # rupees
+  tax_tolerance:             5.00     # rupees, per-invoice GST tax diff
+  date_tolerance_days:       7        # bank vs book date drift
+  fuzzy_party_threshold:     88       # 0-100, rapidfuzz token_set_ratio
+
+  # --- ageing / staleness ---
+  debtor_credit_days_default:   45
+  creditor_credit_days_default: 45
+  stale_cheque_days:            90
+  creditor_itc_reversal_days:   180   # GST Rule 37 - unpaid supplier 180 days
+  ageing_buckets:            [30, 60, 90, 180, 365]
+
+  # --- analytical flags ---
+  material_amount:           100000   # "high value" single entry
+  round_sum_multiple:        100000   # window-dressing sniff test
+  yield_variance_pct:        5.0      # inventory conversion tolerance
+  yearend_window_days:       7        # entries within N days of 31-Mar
+  duplicate_date_window:     3        # days, for near-duplicate detection
+
+  # --- TDS trigger points (FY 2025-26 style) ---
+  tds:
+    "194C_single":   30000
+    "194C_annual":   100000
+    "194J":          50000
+    "194I_rent":     240000
+    "194H":          20000
+    "194Q_purchase": 5000000
+
+  # --- payroll ---
+  pf_wage_ceiling:   15000
+  pf_employee_pct:   12.0
+  pf_employer_pct:   13.0    # 12% + admin
+  esi_wage_ceiling:  21000
+  esi_employee_pct:  0.75
+  esi_employer_pct:  3.25
+  salary_variance_pct: 20.0  # month-on-month net pay swing to flag
+
+# Narrations that identify a cash / contra / charge line on the bank statement
+classification:
+  cash_keywords:     ["cash", "atm", "csw", "cdm", "self"]
+  contra_keywords:   ["transfer to", "transfer from", "contra", "sweep", "own account"]
+  charges_keywords:  ["charges", "chrg", "fee", "commission", "penal", "gst on", "amc", "sms alert"]
+  interest_keywords: ["interest", "int.cr", "int cr", "int pd"]
+  tax_keywords:      ["gst", "cgst", "sgst", "igst", "tds", "tcs", "income tax", "advance tax", "challan"]
+  salary_keywords:   ["salary", "sal ", "wages", "payroll", "neft-sal"]
+  statutory_keywords: ["epf", "pf ", "esic", "esi ", "pt ", "prof tax", "professional tax"]
+  loan_keywords:     ["emi", "loan", "od int", "cc int", "term loan"]
+
+# Reporting
+report:
+  currency_symbol: "Rs."
+  output_dir: "output"
+  workbook_name: "Audit_Working_Papers.xlsx"
+  dashboard_name: "dashboard.html"
+  # severity weighting used to rank the exception register
+  severity_order: ["HIGH", "MEDIUM", "LOW"]
+
+# Public/bank holidays (entries posted on these dates get flagged). ISO dates.
+holidays: []

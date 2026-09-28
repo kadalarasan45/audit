@@ -1,0 +1,166 @@
+# ============================================================
+#  Column alias map.
+#  LHS  = canonical field name used everywhere in the code.
+#  RHS  = every header spelling seen in the wild (Tally exports,
+#         HDFC/ICICI/SBI/Axis/Kotak statements, GST portal downloads).
+#  Matching is case-insensitive and ignores punctuation/spaces.
+#  Add a new alias here instead of touching any Python file.
+# ============================================================
+
+bank:
+  txn_date:    [date, txndate, transactiondate, valuedate, postdate, postingdate, dateofTransaction, trndate, tran date]
+  value_date:  [valuedate, valuedt, effectivedate]
+  description: [narration, description, particulars, transactionremarks, remarks, details, transactiondetails, naration, transactiondescription]
+  ref_no:      [chqrefno, chequeno, chqno, refno, referenceno, reference, chequerefno, instrumentid, utrno, transactionid, tranid]
+  debit:       [debit, withdrawal, withdrawalamt, withdrawalamount, dr, debitamount, paymentsdebit, wdlamt, dramount]
+  credit:      [credit, deposit, depositamt, depositamount, cr, creditamount, receiptscredit, depositamt, cramount]
+  amount:      [amount, transactionamount, amt, txnamount]
+  drcr:        [drcr, type, transactiontype, crdr, dc]
+  balance:     [balance, closingbalance, runningbalance, balanceamt, availablebalance, bal]
+
+purchase:
+  txn_date:    [date, invoicedate, billdate, purchasedate, voucherdate, docdate, documentdate]
+  invoice_no:  [invoiceno, billno, invoicenumber, supplierinvoiceno, docno, documentnumber, refno, purchaseinvoiceno]
+  party:       [party, partyname, suppliername, supplier, vendor, vendorname, tradename, ledgername, particulars, accountname]
+  gstin:       [gstin, gstno, gstinofsupplier, supplierGSTIN, gstinuin, gstinuinofsupplier]
+  taxable:     [taxable, taxablevalue, basicamount, assessablevalue, netamount, value, grossamount]
+  cgst:        [cgst, cgstamount, centraltax, cgstamt]
+  sgst:        [sgst, sgstamount, statetax, sgstamt, utgst, sgstutgst]
+  igst:        [igst, igstamount, integratedtax, igstamt]
+  cess:        [cess, cessamount, cessamt]
+  total:       [total, invoicevalue, totalinvoicevalue, grandtotal, billamount, totalamount, amount]
+  voucher_no:  [voucherno, vchno, vouchernumber, tallyvoucherno]
+  hsn:         [hsn, hsncode, hsnsac, sac]
+  itc_eligible: [itcavailability, itceligible, itcavailable, eligibilityofitc]
+  place:       [placeofsupply, pos, state]
+  rate:        [rate, taxrate, gstrate]
+
+sales:
+  txn_date:    [date, invoicedate, billdate, salesdate, voucherdate, docdate]
+  invoice_no:  [invoiceno, billno, invoicenumber, docno, documentnumber, salesinvoiceno, refno]
+  party:       [party, partyname, customername, customer, buyer, buyername, tradename, ledgername, particulars, receivername]
+  gstin:       [gstin, gstno, gstinofrecipient, gstinuin, gstinuinofrecipient, customergstin]
+  taxable:     [taxable, taxablevalue, basicamount, assessablevalue, netamount, value]
+  cgst:        [cgst, cgstamount, centraltax]
+  sgst:        [sgst, sgstamount, statetax, utgst, sgstutgst]
+  igst:        [igst, igstamount, integratedtax]
+  cess:        [cess, cessamount]
+  total:       [total, invoicevalue, totalinvoicevalue, grandtotal, billamount, totalamount, amount]
+  voucher_no:  [voucherno, vchno, vouchernumber]
+  hsn:         [hsn, hsncode, hsnsac, sac]
+  place:       [placeofsupply, pos, state]
+  rate:        [rate, taxrate, gstrate]
+
+# GSTR-2B / 2A download (B2B sheet)
+gstr2b:
+  txn_date:    [invoicedate, date, invdate, documentdate, docdate]
+  invoice_no:  [invoiceno, invoicenumber, invno, docno, documentnumber]
+  party:       [tradename, legalname, suppliername, supplier, tradenameoflegalname, tradelegalname]
+  gstin:       [gstinofsupplier, gstin, gstinuinofsupplier, suppliergstin]
+  taxable:     [taxablevalue, taxable, assessablevalue, taxablevaluers]
+  cgst:        [centraltax, cgst, centraltaxrs]
+  sgst:        [stateutterritorytax, statetax, sgst, stateutterritorytaxrs, sgstutgst, stateuttax, stateuttaxrs]
+  igst:        [integratedtax, igst, integratedtaxrs]
+  cess:        [cess, cessrs]
+  total:       [invoicevalue, totalinvoicevalue, invoicevaluers, total]
+  itc_eligible: [itcavailability, itcavailable, eligibilityofitc]
+  filing_date: [gstr1gstr5filingdate, gstr1filingdate, filingdate, gstr1gstr1a5filingdate]
+  period:      [gstr1gstr5period, taxperiod, period, returnperiod, gstr1gstr1a5period]
+
+receipts:
+  txn_date:    [date, receiptdate, voucherdate, transactiondate]
+  party:       [party, partyname, customer, customername, ledgername, particulars, receivedfrom]
+  amount:      [amount, receiptamount, amountreceived, credit, value, totalamount]
+  mode:        [mode, paymentmode, modeofreceipt, instrument, type]
+  ref_no:      [refno, chequeno, chqno, utr, instrumentno, referenceno, transactionid]
+  bill_no:     [billno, invoiceno, againstbill, agstref, billreference, reference, billwisereference]
+  voucher_no:  [voucherno, vchno, receiptno]
+  narration:   [narration, remarks, particulars, description]
+
+payments:
+  txn_date:    [date, paymentdate, voucherdate, transactiondate]
+  party:       [party, partyname, supplier, suppliername, vendor, ledgername, particulars, paidto]
+  amount:      [amount, paymentamount, amountpaid, debit, value, totalamount]
+  mode:        [mode, paymentmode, modeofpayment, instrument, type]
+  ref_no:      [refno, chequeno, chqno, utr, instrumentno, referenceno, transactionid]
+  bill_no:     [billno, invoiceno, againstbill, agstref, billreference, reference, billwisereference]
+  voucher_no:  [voucherno, vchno, paymentno]
+  narration:   [narration, remarks, particulars, description]
+
+# Outstanding statements (Tally "Bills Receivable / Payable")
+outstanding:
+  party:       [party, partyname, ledgername, particulars, name, customer, supplier, vendor]
+  bill_no:     [billno, invoiceno, reference, billref, refno, billname, billreference]
+  bill_date:   [date, billdate, invoicedate, duedateofbill, refdate]
+  bill_amount: [billamount, invoiceamount, openingamount, amount, grossamount]
+  balance:     [balance, pendingamount, outstanding, closingbalance, dueamount, pending, balanceamount]
+  credit_days: [creditdays, creditperiod, days, terms]
+  due_date:    [duedate, duedateofbill, duon]
+
+salary:
+  month:       [month, salarymonth, period, payperiod, monthyear]
+  emp_id:      [empid, employeeid, empno, employeecode, code, empcode, ticketno]
+  emp_name:    [name, employeename, empname, particulars]
+  designation: [designation, grade, department, dept]
+  doj:         [doj, dateofjoining, joiningdate]
+  dol:         [dol, dateofleaving, leavingdate, exitdate]
+  days_paid:   [dayspaid, paiddays, presentdays, workingdays, payabledays]
+  basic:       [basic, basicsalary, basicpay, basicda]
+  hra:         [hra, houserentallowance]
+  other_allow: [otherallowance, allowances, specialallowance, conveyance, others, otherearnings]
+  gross:       [gross, grosssalary, grossearnings, totalearnings, grosspay]
+  pf_employee: [pf, pfemployee, epfemployee, employeepf, pfdeduction, epf]
+  esi_employee: [esi, esiemployee, esicemployee, employeeesi, esideduction]
+  pt:          [pt, professiontax, professionaltax, ptax]
+  tds:         [tds, incometax, itds, tdsdeducted]
+  advance:     [advance, salaryadvance, loan, loanrecovery]
+  other_deduct: [otherdeduction, otherdeductions, deductions, misc]
+  total_deduct: [totaldeduction, totaldeductions, totalded]
+  net:         [net, netpay, netsalary, takehome, netamount, amountpayable]
+  mode:        [mode, paymentmode, paidby]
+  bank_acct:   [bankaccount, accountno, bankacno, acno, accountnumber, bankaccountno, bankaccountnumber, salaryaccountno, bankacnumber]
+  pan:         [pan, panno, pannumber]
+  uan:         [uan, uanno, uannumber]
+  esi_no:      [esino, esicno, ipnumber]
+
+inventory:
+  item:        [item, itemname, stockitem, product, productname, material, description]
+  uom:         [uom, unit, units, measure]
+  group:       [group, stockgroup, category, itemgroup]
+  opening_qty: [openingqty, openingquantity, opqty, openingbalanceqty, openingstock]
+  opening_val: [openingvalue, openingval, opvalue, openingamount]
+  inward_qty:  [inwardqty, purchaseqty, receiptqty, inwards, purchasequantity, produced, productionqty]
+  inward_val:  [inwardvalue, purchasevalue, receiptvalue, inwardsvalue, purchaseamount]
+  outward_qty: [outwardqty, salesqty, issueqty, outwards, salesquantity, consumed, consumptionqty]
+  outward_val: [outwardvalue, salesvalue, issuevalue, outwardsvalue, salesamount]
+  closing_qty: [closingqty, closingquantity, clqty, closingbalanceqty, closingstock]
+  closing_val: [closingvalue, closingval, clvalue, closingamount]
+  rate:        [rate, unitrate, standardrate, valuationrate]
+
+# Manufacturing / conversion entries (raw material -> finished goods)
+conversion:
+  txn_date:    [date, conversiondate, voucherdate, productiondate]
+  voucher_no:  [voucherno, vchno, jobno, batchno, workorderno]
+  output_item: [outputitem, finisheditem, finishedgoods, productitem, product, fgitem]
+  output_qty:  [outputqty, finishedqty, producedqty, fgqty, outputquantity]
+  output_val:  [outputvalue, finishedvalue, fgvalue, outputamount]
+  input_item:  [inputitem, rawmaterial, rmitem, consumeditem, component]
+  input_qty:   [inputqty, rawqty, consumedqty, rmqty, inputquantity]
+  input_val:   [inputvalue, rawvalue, consumedvalue, rmvalue, inputamount]
+  std_yield:   [standardyield, stdyield, bomyield, expectedyield, yieldpct, normyield]
+
+# GSTR-3B / GSTR-1 summary sheets
+gst_summary:
+  period:      [period, taxperiod, month, returnperiod, monthyear]
+  taxable:     [taxablevalue, taxable, outwardtaxablevalue, totaltaxablevalue]
+  cgst:        [cgst, centraltax, cgstamount]
+  sgst:        [sgst, statetax, sgstamount, utgst]
+  igst:        [igst, integratedtax, igstamount]
+  cess:        [cess, cessamount]
+  itc_cgst:    [itccgst, cgstitc, inputcgst]
+  itc_sgst:    [itcsgst, sgstitc, inputsgst]
+  itc_igst:    [itcigst, igstitc, inputigst]
+  paid_cash:   [paidincash, cashpaid, taxpaidincash, paidbycash]
+  paid_credit: [paidbyitc, itcutilised, paidbycredit, taxpaidbyitc]
+  challan_no:  [challanno, cin, challanidentificationnumber, brn]
+  paid_date:   [paiddate, dateofpayment, challandate, paymentdate]

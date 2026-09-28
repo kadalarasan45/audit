@@ -1,0 +1,342 @@
+﻿date,description,amount,category,match_pass,confidence,status,reason,month
+2025-06-14,NEFT DR-Global Polymers Ltd,-11422.4,TRADE,amount + same date,98.0,Matched,,2025-06
+2026-03-31,NEFT DR-Orient Logistics LLP,-11516.8,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-03-04,NEFT DR-Lakshmi Power Solution,-18419.8,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-10-18,NEFT DR-Bharat Fasteners Pvt L,-20060.0,TRADE,amount + same date,98.0,Matched,,2025-10
+2026-03-16,NEFT DR-Lakshmi Power Solution,-20201.6,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-03-09,NEFT CR-Deccan Auto Parts Pvt,22066.0,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-10-18,NEFT CR-Meridian Distributors,23328.6,TRADE,amount + same date,98.0,Matched,,2025-10
+2025-06-08,NEFT DR-Bharat Fasteners Pvt L,-23824.2,TRADE,amount + same date,98.0,Matched,,2025-06
+2026-03-31,NEFT DR-Sathya Transport Servi,-26184.2,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-03-31,NEFT CR-Kumaran Steel Traders,28733.0,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-07-27,NEFT CR-Sri Balaji Enterprises,28945.4,TRADE,amount + same date,98.0,Matched,,2025-07
+2026-03-31,NEFT CR-Sharma & Sons,29016.2,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-08-02,NEFT DR-Unity Engineering Work,-29311.2,TRADE,amount + same date,98.0,Matched,,2025-08
+2026-03-31,NEFT CR-Meridian Distributors,29948.4,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-03-26,NEFT DR-Sathya Transport Servi,-30396.8,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-10-26,NEFT CR-Meridian Distributors,30609.2,TRADE,amount + same date,98.0,Matched,,2025-10
+2026-02-25,NEFT DR-Bharat Fasteners Pvt L,-33476.6,TRADE,amount + same date,98.0,Matched,,2026-02
+2025-05-29,NEFT DR-Tirupur Textiles Pvt L,-34125.6,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-09-29,NEFT CR-Kumaran Steel Traders,34279.0,TRADE,amount + same date,98.0,Matched,,2025-09
+2025-09-09,NEFT DR-Lakshmi Power Solution,-34951.6,TRADE,amount + same date,98.0,Matched,,2025-09
+2026-03-28,NEFT DR-Sathya Transport Servi,-37606.6,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-11-30,NEFT DR-Tirupur Textiles Pvt L,-43188.0,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-04-17,NEFT DR-Bharat Fasteners Pvt L,-43518.4,TRADE,amount + same date,98.0,Matched,,2025-04
+2025-09-01,NEFT DR-Bharat Fasteners Pvt L,-46055.4,TRADE,amount + same date,98.0,Matched,,2025-09
+2025-05-28,NEFT DR-Orient Logistics LLP,-46350.4,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-06-25,NEFT CR-Prime Industrial Suppl,47129.2,TRADE,amount + same date,98.0,Matched,,2025-06
+2025-11-14,NEFT DR-Metro Office Supplies,-51766.6,TRADE,amount + same date,98.0,Matched,,2025-11
+2026-01-11,NEFT CR-Prime Industrial Suppl,53123.6,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-11-07,NEFT CR-Everest Marketing,53135.4,TRADE,amount + same date,98.0,Matched,,2025-11
+2026-02-12,NEFT DR-Lakshmi Power Solution,-58032.4,TRADE,amount + same date,98.0,Matched,,2026-02
+2026-03-11,NEFT DR-Skyline Advertising,-59047.2,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-09-19,NEFT DR-Madras Packaging Works,-60604.8,TRADE,amount + same date,98.0,Matched,,2025-09
+2025-11-16,NEFT DR-Madras Packaging Works,-62622.6,TRADE,amount + same date,98.0,Matched,,2025-11
+2026-03-09,NEFT DR-Bharat Fasteners Pvt L,-65702.4,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-12-30,NEFT DR-Bharat Fasteners Pvt L,-65808.6,TRADE,amount + same date,98.0,Matched,,2025-12
+2026-01-23,NEFT CR-Coastal Trading Co,67000.4,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-12-29,NEFT DR-Orient Logistics LLP,-69384.0,TRADE,amount + same date,98.0,Matched,,2025-12
+2026-01-30,NEFT CR-Prime Industrial Suppl,69714.4,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-06-08,NEFT DR-Tirupur Textiles Pvt L,-72617.2,TRADE,amount + same date,98.0,Matched,,2025-06
+2025-06-10,NEFT DR-Tirupur Textiles Pvt L,-72617.2,TRADE,amount + same date,98.0,Matched,,2025-06
+2026-01-30,NEFT DR-Global Polymers Ltd,-73042.0,TRADE,amount + same date,98.0,Matched,,2026-01
+2026-03-10,NEFT DR-Madras Packaging Works,-74564.2,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-11-17,NEFT CR-Prime Industrial Suppl,74871.0,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-09-13,NEFT CR-Deccan Auto Parts Pvt,75496.4,TRADE,amount + same date,98.0,Matched,,2025-09
+2025-10-21,NEFT CR-Sharma & Sons,75732.4,TRADE,amount + same date,98.0,Matched,,2025-10
+2025-10-29,NEFT DR-Lakshmi Power Solution,-75968.4,TRADE,amount + same date,98.0,Matched,,2025-10
+2025-12-07,NEFT CR-Nova Retail India Pvt,77974.4,TRADE,amount + same date,98.0,Matched,,2025-12
+2025-10-13,NEFT DR-Sathya Transport Servi,-78835.8,TRADE,amount + same date,98.0,Matched,,2025-10
+2026-02-28,NEFT DR-Sathya Transport Servi,-79048.2,TRADE,amount + same date,98.0,Matched,,2026-02
+2025-06-30,NEFT CR-Sunrise Traders,79402.2,TRADE,amount + same date,98.0,Matched,,2025-06
+2026-01-01,NEFT DR-Precision Tools India,-79709.0,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-05-30,NEFT CR-Sri Balaji Enterprises,81833.0,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-07-06,NEFT CR-Prime Industrial Suppl,82175.2,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-12-12,NEFT DR-Neelkanth Chemicals,-83567.6,LOAN,amount + same date,98.0,Matched,,2025-12
+2025-08-25,NEFT CR-Sharma & Sons,83945.2,TRADE,amount + same date,98.0,Matched,,2025-08
+2025-10-20,GST CHALLAN PAYMENT 092025,-85030.2,TAX,amount + same date,98.0,Matched,,2025-10
+2026-03-31,NEFT CR-Coastal Trading Co,85101.6,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-01-09,NEFT DR-Lakshmi Power Solution,-85573.6,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-06-24,NEFT DR-Neelkanth Chemicals,-86092.8,LOAN,amount + same date,98.0,Matched,,2025-06
+2025-12-01,NEFT DR-Global Polymers Ltd,-87556.0,TRADE,amount + same date,98.0,Matched,,2025-12
+2025-10-01,NEFT DR-Unity Engineering Work,-88087.0,TRADE,amount + same date,98.0,Matched,,2025-10
+2025-10-22,NEFT DR-Madras Packaging Works,-92004.6,TRADE,amount + same date,98.0,Matched,,2025-10
+2025-10-09,NEFT CR-Anand Hardware Stores,92110.8,TRADE,amount + same date,98.0,Matched,,2025-10
+2026-03-14,NEFT DR-Tirupur Textiles Pvt L,-92134.4,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-08-03,NEFT CR-Everest Marketing,94718.6,TRADE,amount + same date,98.0,Matched,,2025-08
+2025-08-30,NEFT CR-Coastal Trading Co,95414.8,TRADE,amount + same date,98.0,Matched,,2025-08
+2025-08-26,NEFT CR-Meridian Distributors,96854.4,TRADE,amount + same date,98.0,Matched,,2025-08
+2026-03-31,NEFT CR-Sharma & Sons,97680.4,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-03-31,NEFT CR-Nova Retail India Pvt,97999.0,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-03-31,NEFT CR-Sharma & Sons,98447.4,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-06-27,NEFT CR-Sunrise Traders,99686.4,TRADE,amount + same date,98.0,Matched,,2025-06
+2025-12-10,NEFT DR-Madras Packaging Works,-99910.6,TRADE,amount + same date,98.0,Matched,,2025-12
+2025-05-28,NEFT DR-Sathya Transport Servi,-101255.8,TRADE,amount + same date,98.0,Matched,,2025-05
+2026-01-10,NEFT CR-Kumaran Steel Traders,107273.8,TRADE,amount + same date,98.0,Matched,,2026-01
+2026-03-31,NEFT CR-Kumaran Steel Traders,108052.6,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-09-03,NEFT DR-Madras Packaging Works,-111651.6,TRADE,amount + same date,98.0,Matched,,2025-09
+2026-03-13,NEFT CR-Everest Marketing,114684.2,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-12-03,NEFT CR-Coastal Trading Co,117256.6,TRADE,amount + same date,98.0,Matched,,2025-12
+2025-07-09,NEFT DR-Bharat Fasteners Pvt L,-118295.0,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-05-09,NEFT CR-Deccan Auto Parts Pvt,122047.4,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-07-20,NEFT DR-Neelkanth Chemicals,-123723.0,LOAN,amount + same date,98.0,Matched,,2025-07
+2025-04-25,NEFT CR-Coastal Trading Co,125150.8,TRADE,amount + same date,98.0,Matched,,2025-04
+2025-05-02,NEFT CR-Sunrise Traders,126165.6,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-12-19,NEFT DR-Unity Engineering Work,-126637.6,TRADE,amount + same date,98.0,Matched,,2025-12
+2025-04-28,NEFT DR-Neelkanth Chemicals,-128844.2,LOAN,amount + same date,98.0,Matched,,2025-04
+2025-12-17,NEFT CR-Prime Industrial Suppl,133800.2,TRADE,amount + same date,98.0,Matched,,2025-12
+2026-01-02,NEFT CR-Meridian Distributors,134791.4,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-06-23,NEFT CR-Velan Agencies,135086.4,TRADE,amount + same date,98.0,Matched,,2025-06
+2026-03-11,NEFT DR-Madras Packaging Works,-137729.6,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-06-11,NEFT DR-Skyline Advertising,-140856.6,TRADE,amount + same date,98.0,Matched,,2025-06
+2026-01-10,NEFT CR-Nova Retail India Pvt,146851.0,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-08-11,NEFT DR-Precision Tools India,-147865.8,TRADE,amount + same date,98.0,Matched,,2025-08
+2025-04-22,NEFT DR-Skyline Advertising,-151040.0,TRADE,amount + same date,98.0,Matched,,2025-04
+2025-07-25,NEFT DR-Global Polymers Ltd,-152184.6,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-11-29,NEFT CR-Sunrise Traders,155229.0,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-06-01,NEFT DR-Neelkanth Chemicals,-156066.8,LOAN,amount + same date,98.0,Matched,,2025-06
+2025-11-29,NEFT CR-Meridian Distributors,160279.4,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-12-27,NEFT CR-Deccan Auto Parts Pvt,160751.4,TRADE,amount + same date,98.0,Matched,,2025-12
+2025-06-24,NEFT DR-Neelkanth Chemicals,-161211.6,LOAN,amount + same date,98.0,Matched,,2025-06
+2025-08-20,NEFT CR-Prime Industrial Suppl,162191.0,TRADE,amount + same date,98.0,Matched,,2025-08
+2025-09-20,NEFT CR-Coastal Trading Co,162344.4,TRADE,amount + same date,98.0,Matched,,2025-09
+2025-11-16,NEFT DR-Global Polymers Ltd,-163359.2,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-04-25,NEFT DR-Neelkanth Chemicals,-164244.2,LOAN,amount + same date,98.0,Matched,,2025-04
+2025-10-22,NEFT CR-Velan Agencies,164503.8,TRADE,amount + same date,98.0,Matched,,2025-10
+2025-08-19,GST CHALLAN PAYMENT 072025,-172659.6,TAX,amount + same date,98.0,Matched,,2025-08
+2026-02-03,NEFT CR-Sunrise Traders,175000.0,TRADE,amount + same date,98.0,Matched,,2026-02
+2025-06-16,NEFT DR-Madras Packaging Works,-175253.6,TRADE,amount + same date,98.0,Matched,,2025-06
+2026-02-03,NEFT CR-Sri Balaji Enterprises,175973.4,TRADE,amount + same date,98.0,Matched,,2026-02
+2025-05-07,NEFT CR-Deccan Auto Parts Pvt,179242.0,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-09-16,NEFT DR-Skyline Advertising,-180516.4,TRADE,amount + same date,98.0,Matched,,2025-09
+2025-05-06,NEFT CR-Sunrise Traders,180599.0,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-11-29,NEFT CR-Kumaran Steel Traders,182392.6,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-12-30,NEFT DR-Sathya Transport Servi,-182593.2,TRADE,amount + same date,98.0,Matched,,2025-12
+2025-11-26,NEFT CR-Deccan Auto Parts Pvt,186640.6,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-11-27,NEFT CR-Prime Industrial Suppl,187384.0,TRADE,amount + same date,98.0,Matched,,2025-11
+2026-02-26,NEFT CR-Kumaran Steel Traders,188658.4,TRADE,amount + same date,98.0,Matched,,2026-02
+2026-03-31,NEFT DR-Global Polymers Ltd,-189059.6,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-12-02,NEFT CR-Everest Marketing,190699.8,TRADE,amount + same date,98.0,Matched,,2025-12
+2025-09-22,NEFT DR-Orient Logistics LLP,-194641.0,TRADE,amount + same date,98.0,Matched,,2025-09
+2025-10-02,NEFT DR-Skyline Advertising,-194676.4,TRADE,amount + same date,98.0,Matched,,2025-10
+2025-06-19,NEFT CR-Coastal Trading Co,197414.0,TRADE,amount + same date,98.0,Matched,,2025-06
+2025-07-01,NEFT DR-Skyline Advertising,-197886.0,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-07-27,NEFT CR-Anand Hardware Stores,201591.2,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-11-03,NEFT DR-Metro Office Supplies,-203089.8,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-11-04,NEFT CR-Sunrise Traders,203266.8,TRADE,amount + same date,98.0,Matched,,2025-11
+2026-03-31,NEFT DR-Madras Packaging Works,-206724.2,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-09-10,NEFT DR-Bharat Fasteners Pvt L,-206972.0,TRADE,amount + same date,98.0,Matched,,2025-09
+2026-02-07,NEFT CR-Nova Retail India Pvt,207573.8,TRADE,amount + same date,98.0,Matched,,2026-02
+2026-03-20,NEFT CR-Sharma & Sons,207609.2,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-09-25,NEFT DR-Sathya Transport Servi,-208765.6,TRADE,amount + same date,98.0,Matched,,2025-09
+2025-08-23,NEFT DR-Global Polymers Ltd,-210217.0,TRADE,amount + same date,98.0,Matched,,2025-08
+2025-12-17,NEFT CR-Prime Industrial Suppl,211432.4,TRADE,amount + same date,98.0,Matched,,2025-12
+2025-08-10,NEFT DR-Metro Office Supplies,-212199.4,TRADE,amount + same date,98.0,Matched,,2025-08
+2026-01-03,NEFT DR-Sathya Transport Servi,-213485.6,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-09-13,NEFT CR-Prime Industrial Suppl,213816.0,TRADE,amount + same date,98.0,Matched,,2025-09
+2025-09-03,NEFT CR-Deccan Auto Parts Pvt,215019.6,TRADE,amount + same date,98.0,Matched,,2025-09
+2025-06-24,NEFT CR-Velan Agencies,218370.8,TRADE,amount + same date,98.0,Matched,,2025-06
+2026-03-31,NEFT DR-Madras Packaging Works,-218783.8,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-09-27,NEFT DR-Sathya Transport Servi,-219810.4,TRADE,amount + same date,98.0,Matched,,2025-09
+2025-08-18,NEFT CR-Sri Balaji Enterprises,223822.4,TRADE,amount + same date,98.0,Matched,,2025-08
+2026-03-31,NEFT DR-Madras Packaging Works,-224990.6,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-11-04,NEFT CR-Everest Marketing,225203.0,TRADE,amount + same date,98.0,Matched,,2025-11
+2026-03-04,NEFT DR-Metro Office Supplies,-226076.2,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-10-13,NEFT DR-Neelkanth Chemicals,-227197.2,LOAN,amount + same date,98.0,Matched,,2025-10
+2025-06-05,NEFT DR-Orient Logistics LLP,-228035.0,TRADE,amount + same date,98.0,Matched,,2025-06
+2025-06-16,NEFT CR-Everest Marketing,233179.8,TRADE,amount + same date,98.0,Matched,,2025-06
+2025-11-19,NEFT CR-Sharma & Sons,234442.4,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-07-21,NEFT CR-Kumaran Steel Traders,236708.0,TRADE,amount + same date,98.0,Matched,,2025-07
+2026-02-26,NEFT CR-Velan Agencies,236944.0,TRADE,amount + same date,98.0,Matched,,2026-02
+2025-12-01,NEFT DR-Sathya Transport Servi,-238194.8,TRADE,amount + same date,98.0,Matched,,2025-12
+2025-09-18,NEFT DR-Global Polymers Ltd,-238478.0,TRADE,amount + same date,98.0,Matched,,2025-09
+2026-03-08,NEFT DR-Global Polymers Ltd,-239374.8,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-05-09,NEFT DR-Skyline Advertising,-240023.8,TRADE,amount + same date,98.0,Matched,,2025-05
+2026-03-15,NEFT CR-Kumaran Steel Traders,241109.4,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-03-19,NEFT CR-Nova Retail India Pvt,243209.8,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-11-08,NEFT DR-Global Polymers Ltd,-244885.4,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-12-03,NEFT DR-Orient Logistics LLP,-245003.4,TRADE,amount + same date,98.0,Matched,,2025-12
+2025-12-31,NEFT CR-Prime Industrial Suppl,245050.6,TRADE,amount + same date,98.0,Matched,,2025-12
+2026-02-05,NEFT DR-Lakshmi Power Solution,-245451.8,TRADE,amount + same date,98.0,Matched,,2026-02
+2025-08-22,NEFT CR-Sharma & Sons,245652.4,TRADE,amount + same date,98.0,Matched,,2025-08
+2026-03-09,NEFT CR-Deccan Auto Parts Pvt,247009.4,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-03-18,NEFT DR-Sathya Transport Servi,-247552.2,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-01-19,GST CHALLAN PAYMENT 122025,-247906.8,TAX,amount + same date,98.0,Matched,,2026-01
+2026-01-05,NEFT DR-Metro Office Supplies,-250000.0,TRADE,amount + same date,98.0,Matched,,2026-01
+2026-02-06,NEFT CR-Sri Balaji Enterprises,251446.2,TRADE,amount + same date,98.0,Matched,,2026-02
+2025-11-03,NEFT DR-Bharat Fasteners Pvt L,-252744.2,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-11-07,NEFT DR-Tirupur Textiles Pvt L,-252956.6,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-05-20,NEFT CR-Everest Marketing,253039.2,TRADE,amount + same date,98.0,Matched,,2025-05
+2026-01-24,NEFT DR-Neelkanth Chemicals,-255399.2,LOAN,amount + same date,98.0,Matched,,2026-01
+2025-10-09,NEFT DR-Madras Packaging Works,-256532.0,TRADE,amount + same date,98.0,Matched,,2025-10
+2025-12-10,NEFT CR-Meridian Distributors,256709.0,TRADE,amount + same date,98.0,Matched,,2025-12
+2025-05-26,NEFT DR-Global Polymers Ltd,-257027.6,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-11-09,NEFT DR-Neelkanth Chemicals,-257216.4,LOAN,amount + same date,98.0,Matched,,2025-11
+2025-11-29,NEFT CR-Prime Industrial Suppl,259411.2,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-07-29,NEFT DR-Orient Logistics LLP,-259647.2,TRADE,amount + same date,98.0,Matched,,2025-07
+2026-03-31,NEFT DR-Skyline Advertising,-260048.4,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-03-31,NEFT DR-Madras Packaging Works,-261794.8,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-02-19,GST CHALLAN PAYMENT 012026,-262432.8,TAX,amount + same date,98.0,Matched,,2026-02
+2026-01-09,NEFT CR-Anand Hardware Stores,262609.0,TRADE,amount + same date,98.0,Matched,,2026-01
+2026-01-04,NEFT DR-Unity Engineering Work,-263824.4,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-10-20,NEFT DR-Unity Engineering Work,-264178.4,TRADE,amount + same date,98.0,Matched,,2025-10
+2025-07-22,NEFT CR-Sunrise Traders,266538.4,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-11-24,NEFT DR-Bharat Fasteners Pvt L,-266621.0,TRADE,amount + same date,98.0,Matched,,2025-11
+2026-03-21,NEFT CR-Everest Marketing,266656.4,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-02-24,NEFT CR-Meridian Distributors,267057.6,TRADE,amount + same date,98.0,Matched,,2026-02
+2025-06-12,NEFT DR-Lakshmi Power Solution,-270326.2,TRADE,amount + same date,98.0,Matched,,2025-06
+2025-09-19,GST CHALLAN PAYMENT 082025,-270701.0,TAX,amount + same date,98.0,Matched,,2025-09
+2025-08-31,NEFT CR-Deccan Auto Parts Pvt,273382.4,TRADE,amount + same date,98.0,Matched,,2025-08
+2025-10-28,NEFT DR-Global Polymers Ltd,-273701.0,TRADE,amount + same date,98.0,Matched,,2025-10
+2025-11-12,NEFT CR-Meridian Distributors,273901.6,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-11-02,NEFT CR-Anand Hardware Stores,274232.0,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-11-23,NEFT CR-Prime Industrial Suppl,274314.6,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-11-02,NEFT CR-Prime Industrial Suppl,274656.8,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-12-31,NEFT DR-Precision Tools India,-277441.6,TRADE,amount + same date,98.0,Matched,,2025-12
+2025-06-29,NEFT CR-Velan Agencies,279058.2,TRADE,amount + same date,98.0,Matched,,2025-06
+2025-08-11,NEFT CR-Sharma & Sons,284462.6,TRADE,amount + same date,98.0,Matched,,2025-08
+2025-09-12,NEFT CR-Prime Industrial Suppl,287094.0,TRADE,amount + same date,98.0,Matched,,2025-09
+2025-09-01,NEFT DR-Bharat Fasteners Pvt L,-287105.8,TRADE,amount + same date,98.0,Matched,,2025-09
+2026-03-31,NEFT CR-Anand Hardware Stores,287990.8,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-10-13,NEFT DR-Sathya Transport Servi,-290126.6,TRADE,amount + same date,98.0,Matched,,2025-10
+2025-07-14,NEFT CR-Sri Balaji Enterprises,291412.8,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-07-07,NEFT DR-Tirupur Textiles Pvt L,-291967.4,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-11-13,NEFT DR-Madras Packaging Works,-292380.4,TRADE,amount + same date,98.0,Matched,,2025-11
+2026-03-31,NEFT DR-Madras Packaging Works,-293619.4,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-08-01,NEFT CR-Prime Industrial Suppl,295719.8,TRADE,amount + same date,98.0,Matched,,2025-08
+2026-01-14,NEFT CR-Deccan Auto Parts Pvt,296734.6,TRADE,amount + same date,98.0,Matched,,2026-01
+2026-02-09,NEFT DR-Precision Tools India,-299779.0,TRADE,amount + same date,98.0,Matched,,2026-02
+2025-05-27,NEFT CR-Sunrise Traders,300333.6,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-10-15,NEFT CR-Prime Industrial Suppl,301372.0,TRADE,amount + same date,98.0,Matched,,2025-10
+2025-05-28,NEFT CR-Sharma & Sons,302209.8,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-11-10,NEFT DR-Orient Logistics LLP,-302717.2,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-06-30,NEFT CR-Sunrise Traders,303649.4,TRADE,amount + same date,98.0,Matched,,2025-06
+2025-10-31,NEFT CR-Sri Balaji Enterprises,304628.8,TRADE,amount + same date,98.0,Matched,,2025-10
+2026-03-22,GST CHALLAN PAYMENT 022026,-305940.6,TAX,amount + same date,98.0,Matched,,2026-03
+2025-07-20,GST CHALLAN PAYMENT 062025,-307055.4,TAX,amount + same date,98.0,Matched,,2025-07
+2025-11-26,NEFT CR-Nova Retail India Pvt,309679.2,TRADE,amount + same date,98.0,Matched,,2025-11
+2026-03-15,NEFT CR-Nova Retail India Pvt,309927.0,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-03-31,NEFT CR-Sri Balaji Enterprises,312735.4,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-01-23,NEFT CR-Coastal Trading Co,313006.8,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-10-30,NEFT CR-Velan Agencies,315248.8,TRADE,amount + same date,98.0,Matched,,2025-10
+2025-07-09,NEFT DR-Skyline Advertising,-316464.2,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-09-24,NEFT CR-Velan Agencies,319732.8,TRADE,amount + same date,98.0,Matched,,2025-09
+2025-08-25,NEFT DR-Unity Engineering Work,-320204.8,TRADE,amount + same date,98.0,Matched,,2025-08
+2026-02-16,NEFT DR-Sathya Transport Servi,-320818.4,TRADE,amount + same date,98.0,Matched,,2026-02
+2026-02-05,NEFT-SALARY PAYOUT,-321950.0,SALARY,amount + same date,98.0,Matched,,2026-02
+2025-11-18,NEFT DR-Skyline Advertising,-322163.6,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-11-15,NEFT CR-Coastal Trading Co,322553.0,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-10-09,NEFT DR-Sathya Transport Servi,-322907.0,TRADE,amount + same date,98.0,Matched,,2025-10
+2025-05-05,NEFT DR-Bharat Fasteners Pvt L,-323520.6,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-08-21,NEFT DR-Global Polymers Ltd,-325031.0,TRADE,amount + same date,98.0,Matched,,2025-08
+2025-09-03,NEFT CR-Coastal Trading Co,325290.6,TRADE,amount + same date,98.0,Matched,,2025-09
+2026-02-07,NEFT CR-Sri Balaji Enterprises,326175.6,TRADE,amount + same date,98.0,Matched,,2026-02
+2025-11-23,NEFT DR-Global Polymers Ltd,-328016.4,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-12-18,NEFT DR-Sathya Transport Servi,-328972.2,TRADE,amount + same date,98.0,Matched,,2025-12
+2025-08-05,NEFT CR-Sri Balaji Enterprises,329208.2,TRADE,amount + same date,98.0,Matched,,2025-08
+2025-08-05,NEFT-SALARY PAYOUT,-329783.0,SALARY,amount + same date,98.0,Matched,,2025-08
+2025-09-05,NEFT-SALARY PAYOUT,-331533.0,SALARY,amount + same date,98.0,Matched,,2025-09
+2025-07-30,NEFT CR-Kumaran Steel Traders,334376.6,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-07-28,NEFT DR-Bharat Fasteners Pvt L,-334742.4,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-05-05,NEFT-SALARY PAYOUT,-335005.0,SALARY,amount + same date,98.0,Matched,,2025-05
+2025-06-05,NEFT-SALARY PAYOUT,-335005.0,SALARY,amount + same date,98.0,Matched,,2025-06
+2025-07-05,NEFT-SALARY PAYOUT,-335005.0,SALARY,amount + same date,98.0,Matched,,2025-07
+2025-10-05,NEFT-SALARY PAYOUT,-335005.0,SALARY,amount + same date,98.0,Matched,,2025-10
+2025-12-05,NEFT-SALARY PAYOUT,-335005.0,SALARY,amount + same date,98.0,Matched,,2025-12
+2026-01-05,NEFT-SALARY PAYOUT,-335005.0,SALARY,amount + same date,98.0,Matched,,2026-01
+2026-03-05,NEFT-SALARY PAYOUT,-335005.0,SALARY,amount + same date,98.0,Matched,,2026-03
+2026-04-05,NEFT-SALARY PAYOUT,-335005.0,SALARY,amount + same date,98.0,Matched,,2026-04
+2025-08-30,NEFT CR-Sunrise Traders,342601.2,TRADE,amount + same date,98.0,Matched,,2025-08
+2026-03-31,NEFT DR-Madras Packaging Works,-343096.8,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-03-31,NEFT CR-Sunrise Traders,344949.4,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-07-19,NEFT CR-Meridian Distributors,345244.4,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-11-07,NEFT DR-Neelkanth Chemicals,-346731.2,LOAN,amount + same date,98.0,Matched,,2025-11
+2025-05-30,NEFT CR-Meridian Distributors,347639.8,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-05-26,NEFT CR-Nova Retail India Pvt,347663.4,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-12-27,NEFT CR-Sharma & Sons,350955.6,TRADE,amount + same date,98.0,Matched,,2025-12
+2026-02-02,NEFT DR-Madras Packaging Works,-353138.6,TRADE,amount + same date,98.0,Matched,,2026-02
+2025-05-12,NEFT CR-Coastal Trading Co,353716.8,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-11-30,NEFT CR-Velan Agencies,355451.4,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-06-16,NEFT DR-Sathya Transport Servi,-355994.2,TRADE,amount + same date,98.0,Matched,,2025-06
+2026-01-06,NEFT DR-Orient Logistics LLP,-357398.4,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-07-08,NEFT CR-Sri Balaji Enterprises,360643.4,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-09-19,NEFT CR-Sri Balaji Enterprises,361268.8,TRADE,amount + same date,98.0,Matched,,2025-09
+2026-01-20,NEFT CR-Sharma & Sons,363593.4,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-06-04,NEFT CR-Nova Retail India Pvt,367086.2,TRADE,amount + same date,98.0,Matched,,2025-06
+2025-11-19,GST CHALLAN PAYMENT 102025,-371138.4,TAX,amount + same date,98.0,Matched,,2025-11
+2025-07-18,NEFT CR-Anand Hardware Stores,371393.2,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-12-13,NEFT CR-Prime Industrial Suppl,372856.4,TRADE,amount + same date,98.0,Matched,,2025-12
+2025-08-14,NEFT CR-Sharma & Sons,374933.2,TRADE,amount + same date,98.0,Matched,,2025-08
+2026-03-12,NEFT CR-Velan Agencies,375063.0,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-02-27,NEFT CR-Sunrise Traders,375747.4,TRADE,amount + same date,98.0,Matched,,2026-02
+2026-03-16,NEFT CR-Everest Marketing,376762.2,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-08-17,NEFT CR-Deccan Auto Parts Pvt,376785.8,TRADE,amount + same date,98.0,Matched,,2025-08
+2026-03-23,NEFT CR-Meridian Distributors,376927.4,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-12-02,NEFT CR-Sunrise Traders,377116.2,TRADE,amount + same date,98.0,Matched,,2025-12
+2026-02-25,NEFT CR-Prime Industrial Suppl,383629.8,TRADE,amount + same date,98.0,Matched,,2026-02
+2025-05-23,NEFT CR-Sharma & Sons,387759.8,TRADE,amount + same date,98.0,Matched,,2025-05
+2026-01-09,NEFT CR-Nova Retail India Pvt,387759.8,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-08-26,NEFT CR-Meridian Distributors,388833.6,TRADE,amount + same date,98.0,Matched,,2025-08
+2025-07-02,NEFT CR-Nova Retail India Pvt,392574.2,TRADE,amount + same date,98.0,Matched,,2025-07
+2026-01-02,NEFT CR-Kumaran Steel Traders,394344.2,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-08-12,NEFT CR-Sri Balaji Enterprises,398226.4,TRADE,amount + same date,98.0,Matched,,2025-08
+2026-02-17,NEFT CR-Prime Industrial Suppl,399913.8,TRADE,amount + same date,98.0,Matched,,2026-02
+2025-07-31,NEFT CR-Prime Industrial Suppl,407418.6,TRADE,amount + same date,98.0,Matched,,2025-07
+2026-01-01,NEFT CR-Velan Agencies,408480.6,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-05-29,NEFT CR-Coastal Trading Co,410132.6,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-06-19,NEFT CR-Meridian Distributors,412976.4,TRADE,amount + same date,98.0,Matched,,2025-06
+2025-10-12,NEFT CR-Kumaran Steel Traders,413837.8,TRADE,amount + same date,98.0,Matched,,2025-10
+2026-03-31,NEFT CR-Nova Retail India Pvt,416469.2,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-01-23,NEFT CR-Velan Agencies,416551.8,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-12-30,NEFT CR-Everest Marketing,424811.8,TRADE,amount + same date,98.0,Matched,,2025-12
+2026-03-31,NEFT CR-Coastal Trading Co,425685.0,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-02-03,NEFT CR-Kumaran Steel Traders,429402.0,TRADE,amount + same date,98.0,Matched,,2026-02
+2025-06-21,NEFT CR-Meridian Distributors,436352.2,TRADE,amount + same date,98.0,Matched,,2025-06
+2026-02-25,NEFT CR-Deccan Auto Parts Pvt,439502.8,TRADE,amount + same date,98.0,Matched,,2026-02
+2025-11-25,NEFT CR-Everest Marketing,440246.2,TRADE,amount + same date,98.0,Matched,,2025-11
+2026-02-21,NEFT CR-Sharma & Sons,440482.2,TRADE,amount + same date,98.0,Matched,,2026-02
+2026-03-02,NEFT CR-Everest Marketing,447644.8,TRADE,amount + same date,98.0,Matched,,2026-03
+2026-03-08,NEFT CR-Anand Hardware Stores,447880.8,TRADE,amount + same date,98.0,Matched,,2026-03
+2025-07-17,NEFT CR-Nova Retail India Pvt,454382.6,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-11-22,NEFT CR-Deccan Auto Parts Pvt,454606.8,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-05-15,NEFT CR-Kumaran Steel Traders,459680.8,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-08-28,NEFT CR-Anand Hardware Stores,462878.6,TRADE,amount + same date,98.0,Matched,,2025-08
+2026-01-22,NEFT CR-Velan Agencies,465474.6,TRADE,amount + same date,98.0,Matched,,2026-01
+2025-11-23,NEFT CR-Meridian Distributors,466229.8,TRADE,amount + same date,98.0,Matched,,2025-11
+2025-06-25,NEFT CR-Kumaran Steel Traders,466701.8,TRADE,amount + same date,98.0,Matched,,2025-06
+2025-07-22,NEFT CR-Sri Balaji Enterprises,471504.4,TRADE,amount + same date,98.0,Matched,,2025-07
+2026-04-19,GST CHALLAN PAYMENT 032026,-472469.4,TAX,amount + same date,98.0,Matched,,2026-04
+2025-12-20,GST CHALLAN PAYMENT 112025,-473646.6,TAX,amount + same date,98.0,Matched,,2025-12
+2025-05-07,NEFT CR-Everest Marketing,475280.4,TRADE,amount + same date,98.0,Matched,,2025-05
+2025-07-07,NEFT CR-Sri Balaji Enterprises,487021.4,TRADE,amount + same date,98.0,Matched,,2025-07
+2025-06-19,NEFT CR-Sunrise Traders,488012.6,TRADE,amount + same date,98.0,Matched,,2025-06
+2025-10-09,NEFT CR-Sunrise Traders,493228.2,TRADE,amount + same date,98.0,Matched,,2025-10
+2025-06-08,NEFT CR-Velan Agencies,500000.0,TRADE,amount + same date,98.0,Matched,,2025-06
+2025-11-05,NEFT-SALARY PAYOUT,-505845.0,SALARY,amount + same date,98.0,Matched,,2025-11
+2025-05-20,GST CHALLAN PAYMENT 042025,-598226.4,TAX,amount + same date,98.0,Matched,,2025-05
+2025-06-19,GST CHALLAN PAYMENT 052025,-771368.4,TAX,amount + same date,98.0,Matched,,2025-06
+2025-04-10,EMI TERM LOAN A/C 5567,-125000.0,LOAN,,0.0,In bank only,EMI / loan debit not recorded in books,2025-04
+2025-04-30,BANK CHARGES-AMC GST ON CHRG,-665.07,CHARGES,,0.0,In bank only,Bank charges / fees not recorded in books,2025-04
+2025-04-30,INTEREST CREDIT-FD,9493.39,INTEREST,,0.0,In bank only,Bank interest not recorded in books,2025-04
+2025-05-31,BANK CHARGES-AMC GST ON CHRG,-311.41,CHARGES,,0.0,In bank only,Bank charges / fees not recorded in books,2025-05
+2025-06-10,EMI TERM LOAN A/C 5567,-125000.0,LOAN,,0.0,In bank only,EMI / loan debit not recorded in books,2025-06
+2025-06-30,BANK CHARGES-AMC GST ON CHRG,-711.35,CHARGES,,0.0,In bank only,Bank charges / fees not recorded in books,2025-06
+2025-07-31,BANK CHARGES-AMC GST ON CHRG,-738.95,CHARGES,,0.0,In bank only,Bank charges / fees not recorded in books,2025-07
+2025-07-31,INTEREST CREDIT-FD,7174.81,INTEREST,,0.0,In bank only,Bank interest not recorded in books,2025-07
+2025-08-10,EMI TERM LOAN A/C 5567,-125000.0,LOAN,,0.0,In bank only,EMI / loan debit not recorded in books,2025-08
+2025-08-31,BANK CHARGES-AMC GST ON CHRG,-167.61,CHARGES,,0.0,In bank only,Bank charges / fees not recorded in books,2025-08
+2025-09-30,BANK CHARGES-AMC GST ON CHRG,-824.83,CHARGES,,0.0,In bank only,Bank charges / fees not recorded in books,2025-09
+2025-10-10,EMI TERM LOAN A/C 5567,-125000.0,LOAN,,0.0,In bank only,EMI / loan debit not recorded in books,2025-10
+2025-10-31,INTEREST CREDIT-FD,4159.1,INTEREST,,0.0,In bank only,Bank interest not recorded in books,2025-10
+2025-10-31,BANK CHARGES-AMC GST ON CHRG,-531.59,CHARGES,,0.0,In bank only,Bank charges / fees not recorded in books,2025-10
+2025-11-30,BANK CHARGES-AMC GST ON CHRG,-423.09,CHARGES,,0.0,In bank only,Bank charges / fees not recorded in books,2025-11
+2025-12-10,EMI TERM LOAN A/C 5567,-125000.0,LOAN,,0.0,In bank only,EMI / loan debit not recorded in books,2025-12
+2025-12-31,BANK CHARGES-AMC GST ON CHRG,-710.9,CHARGES,,0.0,In bank only,Bank charges / fees not recorded in books,2025-12
+2026-01-31,INTEREST CREDIT-FD,13142.34,INTEREST,,0.0,In bank only,Bank interest not recorded in books,2026-01
+2026-01-31,BANK CHARGES-AMC GST ON CHRG,-447.91,CHARGES,,0.0,In bank only,Bank charges / fees not recorded in books,2026-01
+2026-02-10,EMI TERM LOAN A/C 5567,-125000.0,LOAN,,0.0,In bank only,EMI / loan debit not recorded in books,2026-02
+2026-02-28,BANK CHARGES-AMC GST ON CHRG,-719.68,CHARGES,,0.0,In bank only,Bank charges / fees not recorded in books,2026-02
+2026-03-31,BANK CHARGES-AMC GST ON CHRG,-577.27,CHARGES,,0.0,In bank only,Bank charges / fees not recorded in books,2026-03
+2025-12-18,Precision Tools India,-215000.0,TRADE,,0.0,In books only,Cheque issued / payment entered but not presented,2025-12
+2026-03-27,Orient Logistics LLP,-88400.0,TRADE,,0.0,In books only,Cheque issued / payment entered but not presented,2026-03
+2025-08-14,Skyline Advertising,-140000.0,TRADE,,0.0,In books only,Cheque issued / payment entered but not presented,2025-08

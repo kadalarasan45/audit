@@ -1,0 +1,34 @@
+﻿measure,value
+client,Sample Traders Private Limited
+fy,2025-26
+period,2025-04-01 to 2026-03-31
+generated,28-Sep-2026 16:08
+sales,56675752.6
+purchases,29120311.4
+receipts,47435202.0
+payments,23814355.0
+debtors,9480550.6
+creditors,5696473.6
+salary_cost,4457550.0
+closing_stock,35148079.82
+bank_lines,338
+bank_match_rate,93.5
+bank_unreconciled,0.0
+bank_only,22
+book_only,3
+itc_at_risk,150890.4
+itc_unclaimed,52241.4
+gst_match_rate,96.36
+gst_shortfall,48000.0
+debtors_overdue,7809776.8
+creditors_overdue,3899864.6
+unapplied_receipts,0.0
+unapplied_payments,0.0
+cash_above_limit,35
+duplicates,6
+exceptions_total,259
+exceptions_high,122
+exceptions_medium,87
+exceptions_low,50
+exception_value,88285756.56
+rules_run,51
